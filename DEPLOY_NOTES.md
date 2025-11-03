@@ -1,0 +1,4 @@
+- ضع القيم في Secrets للمستودع: VITE_SUPABASE_URL و VITE_SUPABASE_ANON_KEY
+- الرفع: ارفع محتويات هذا المجلد كمستودع على GitHub (الفرع main)
+- Pages: Settings → Pages → Source: GitHub Actions
+- سيُبنى تلقائياً عبر .github/workflows/deploy.yml
